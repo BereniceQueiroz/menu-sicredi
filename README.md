@@ -18,9 +18,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O projeto foi feito em html, css e js, apresentando um menu togle e accordion responsivos.
 
-Para acessar a aplicação, realizar o clone do projeto no link =>
+Para acessar a aplicação, realizar o clone do projeto no link => https://github.com/BereniceQueiroz/menu-sicredi
 
-Instalar as dependências com o comando => yarn ou npm install
+Instalar as dependências com o comando => yarn ou npm install, necessario node versão ˆ16.
 
 Rodar a aplicação localmente com o comando => yarn start
 
